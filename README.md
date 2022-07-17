@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on Andoid Development projects
 - 📫 Email: sagnikr666@gmail.com
-- 
 
 <!---
 sroy20442/sroy20442 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
