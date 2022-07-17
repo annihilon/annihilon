@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Sagnik
 - 👀 I’m interested in WEB/APP development, ML, AI based projects
 - 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate on Andoid Development projects
+- 💞️ I’m looking to collaborate on Android Development projects
 - 📫 Email: sagnikr666@gmail.com
 
 <!---
