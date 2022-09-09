@@ -1,6 +1,6 @@
 - 👋 Hello There, I’m Sagnik
 - 👀 I’m interested in WEB/APP development, ML, AI based projects
-- 🌱 I’m currently learning ML, Firebase
+- 🌱 I’m currently learning TensorFlow, MATLAB and Firebase
 - 💞️ I’m looking to collaborate on Android/Web Development, Blockchain projects
 - 📫 Email: sroy20442@gmail.com
 
