@@ -150,6 +150,3 @@ blue_menace_014" target="_blank">
                 />
             </a></div>
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
