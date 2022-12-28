@@ -6,7 +6,7 @@
 ### <div align="center">I'm Sagnik, A passionate full-stack developer, a web3 and Open-Source enthusiast from India 👨‍💻 working remotely since 2021 🚀</div>  
   
 
-- 🔭 I’m currently working on Web3  
+- 🔭 I’m currently working on Blockchain Dev  
   
 
 - 🌱 I’m currently learning Firebase and Solidity Dev  
