@@ -12,7 +12,10 @@
 - 🌱 I’m currently learning Firebase and Solidity Dev  
   
 
-- ❓ Ask me about anything related to react and related technologies  
+- ❓ Ask me about anything related to react and related technologies 
+
+
+- 😄 Pronouns: He/His
   
 
 - ⚡ Fun fact: I use tabs over spaces  
