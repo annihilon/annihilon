@@ -149,5 +149,5 @@ blue_menace_014" target="_blank">
                     align="center"
                 />
             </a>
-            <h2>Designed with ❤️ by Sagnik</h2></div>
+            <h4>Designed with ❤️ by Sagnik</h4></div>
 <br />
