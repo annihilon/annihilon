@@ -148,5 +148,6 @@ blue_menace_014" target="_blank">
                     src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
                     align="center"
                 />
-            </a></div>
+            </a>
+            <h2>Designed with ❤️ by Sagnik</h2></div>
 <br />
