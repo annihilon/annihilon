@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100% height: 50%" />
+<img src="https://tenor.com/view/hello-wave-hands-cursive-text-gif-5042470" align="center" style="width: 100% height: 50%" />
 </div>  
   
 
